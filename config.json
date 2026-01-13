@@ -1,0 +1,7 @@
+{
+  "lexical_weight": 0.7,
+  "semantic_weight": 0.3,
+  "kopya_esik": 0.75,
+  "supheli_esik": 0.5,
+  "//": "Varsayilanlar: lexical+semantic agirliklari toplam 1.0 olacak sekilde ayarlayın. Eşikler: final > kopya_esik -> KOPYA, final > supheli_esik -> SUPHELI."
+}
